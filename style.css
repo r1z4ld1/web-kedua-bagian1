@@ -23,7 +23,7 @@ ul{
 .pembungkus-atas{
     padding-top: 180px;
     padding-bottom: 100px;
-    color:#8acf88;
+    color:#f4f8f3;
     background-image: url(gambar_atas.png);
     background-size: cover;       
     text-align: center;
@@ -206,7 +206,7 @@ footer{
 
 .pembungkus-media h1{
     text-align: center;
-    color: grey;
+    color: rgb(255, 254, 254);
 }
 video{
     width: 100%;
